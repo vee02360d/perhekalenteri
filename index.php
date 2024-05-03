@@ -8,6 +8,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Perhekalenteri</title>
+    <link href="styles.css" rel="stylesheet">
   </head>
   <body>
     <header>
